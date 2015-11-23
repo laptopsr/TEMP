@@ -5,8 +5,8 @@
 
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<link rel="stylesheet" href="modal_only.css">
-<script src="modal_only.js"></script>
+<link rel="stylesheet" href="vetel_modal.css">
+<script src="vetel_modal.js"></script>
 
 <!-- Button HTML (to Trigger Modal) -->
     <a href="#myModal" class="btn btn-lg btn-primary" data-toggle="modal">Launch Demo Modal</a>
